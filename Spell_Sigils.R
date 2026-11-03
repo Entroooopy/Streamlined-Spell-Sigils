@@ -4,7 +4,7 @@ library(plyr)
 library(stringr)
 
 #copy the path to your .csv file, but USE FORWARD SLASHES
-path_to_file <- "C:/Users/kifaf/Downloads/Streamlined Spell Sigils - data_for_r (8).csv"
+path_to_file <- "C:/Users/YOU/Downloads/Streamlined Spell Sigils - data_for_r.csv"
 
 #select what colour you want your sigil (hex code or options here: https://r-charts.com/colors/)
 sigil_colour <- "black"
@@ -18,7 +18,7 @@ background_colour <- NA
 image_name <- "sigil"
 
 #tell it where you want the image file saved, but USE FORWARD SLASHES
-save_image_here <- "C:/Users/kifaf/Downloads"
+save_image_here <- "C:/Users/YOU/Downloads"
 
 
 #Then run this code:
