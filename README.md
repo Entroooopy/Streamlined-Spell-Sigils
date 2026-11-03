@@ -13,7 +13,7 @@ File > Download > Comma Separated Values. It should save to your Downloads folde
 **2) Graph the sigil**
 Open R Studio. Install ggplot2, plyr, and stringr if you don't have them.
 Fill out everything above the dividing line.
-Run the code.
+Run **all** of the code, including the stuff you just filled out.
 
 
 The code just automates the methods found here: https://www.drivethrurpg.com/en/product/429711/the-spell-writing-guide?src=hottest_filtered&amp;affiliate_id=3673211
