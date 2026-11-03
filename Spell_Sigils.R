@@ -21,7 +21,7 @@ image_name <- "sigil"
 save_image_here <- "C:/Users/YOU/Downloads"
 
 
-#Then run this code:
+#Then run all the code
 #-------------------------------------------------------------------------------
 data <- read_csv(path_to_file)
 #View(data)
